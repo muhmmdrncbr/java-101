@@ -32,7 +32,6 @@ public class NotOrtalaması {
 
         System.out.println("Not Ortalamanız = " + ortalama);
 
-        // Ternary operator ile sonuç
         System.out.println(ortalama >= 60 ? "SINIFI GEÇTİ" : "KALDI");
     }
 }
