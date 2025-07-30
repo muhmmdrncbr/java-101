@@ -25,7 +25,7 @@ public class KullaniciGirisi {
                 System.out.println("Yeni Şifreyi Giriniz:");
                 String yeniSifre=input.nextLine();
 
-                if (yeniSifre.equals(sifre="Gumos.144")){
+                if (yeniSifre.equals(sifre)){
                     System.out.println("Şifreniz Eski Şifreyle Aynı Lütfen Başka Bir Şifre Giriniz");
                 }
                 else {
